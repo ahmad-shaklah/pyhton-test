@@ -9,3 +9,6 @@ if __name__ == "__main__":
     hello_world()
     hello_world2()
     # You can add more functionality here if needed.
+
+def hello_world3():
+    print("hi")
